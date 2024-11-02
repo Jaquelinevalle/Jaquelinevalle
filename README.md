@@ -48,6 +48,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaquelinevalle&theme=dracula&show_icons=true" />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaquelinevalle/Jaquelinevalle/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaquelinevalle/Jaquelinevalle/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jaquelinevalle/Jaquelinevalle/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-JaquelineCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jaqueline-valle)](www.linkedin.com/in/jaqueline-valle)
