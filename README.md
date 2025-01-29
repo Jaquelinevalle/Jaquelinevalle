@@ -59,7 +59,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-JaquelineCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jaqueline-valle)](www.linkedin.com/in/jaqueline-valle)
+[![Linkedin](https://img.shields.io/badge/-JaquelineCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaqueline-valle/)](https://www.linkedin.com/in/jaqueline-valle/)
 [![Gmail Badge](https://img.shields.io/badge/-jaquelinevalle23@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquelinevalle23@gmail.com)](mailto:jaquelinevalle23@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Jaquelinevalle?label=follow&style=social)](https://github.com/Jaquelinevalle)
 
